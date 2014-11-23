@@ -24,3 +24,4 @@ For each activity in a subject, get the full list of measurements
 Calculate the mean of each of these activities
 Place the means in subsequent columns of the subject/activity row
 Write second tiny data set to file
+
