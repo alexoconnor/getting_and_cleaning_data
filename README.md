@@ -2,7 +2,7 @@ getting_and_cleaning_data
 =========================
 Data Analysis Explanation
 
-For 1st tiny data set:
+**************** For 1st tiny data set:
 
 Read data sets and combine them
 
@@ -28,7 +28,7 @@ Merge data, subjects, and labels to single tiny data set
 
 Write tiny data set to file
 
-For 2nd tiny data set: average of measurement for activity and subject
+*************** For 2nd tiny data set: average of measurement for activity and subject
 
 Prepare empty data set of appropriate length for
 
